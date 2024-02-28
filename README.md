@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Domina Python: Inteligencia artificial
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
@@ -42,9 +42,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Ana María Pinto**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
