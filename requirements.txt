@@ -1,0 +1,12 @@
+cvzone
+jupyter
+matplotlib
+nltk
+openapi
+opencv-python
+pandas
+seaborn
+tensorflow
+tensorflow_datasets
+ucimlrepo
+ultralytics
