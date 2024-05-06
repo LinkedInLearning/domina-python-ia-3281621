@@ -1,4 +1,4 @@
-import  cv2
+import cv2
 import cvzone
 import math
 import os
