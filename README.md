@@ -49,7 +49,7 @@ Las directorios están estructuradas para corresponder a los vídeos del curso. 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-inteligencia-artificial
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFCz6yL4OPUGg/learning-public-crop_675_1200/0/1720443758802?e=2147483647&v=beta&t=tq5neplmJy36i_fIRsVB8g1kxrY9E9NsDYiHmAknVkY
 
 [1]: # (End of ES-Instruction ###############################################################################################)
